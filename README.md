@@ -23,7 +23,9 @@
 ### 🎧 Spotify Playing 
 [![Spotify](https://novatorem.vercel.app/api/spotify)][spotify]
 
-[![Spotify](https://dinanrm.vercel.app/api/spotify)][spotify]
+[![Spotify](https://github-readme-spotify.dinanrm.vercel.app/api/spotify-playing)][spotify]
+
+[![Spotify](https://dinanrm.vercel.app/api/spotify-playing)][spotify]
 
 ### 🔗 Connect with me:
 
@@ -49,7 +51,7 @@
 
 
 ### 👨🏻‍💻 Playing Stats:
-![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&langs_count=10&layout=compact&theme=dark)
+![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&layout=compact&theme=dark)
 
 
 ### 📍 Recent GitHub Activity
