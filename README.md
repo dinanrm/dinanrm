@@ -14,6 +14,8 @@
 - 👨🏻‍💻 Focusing on .Net technology because of my role in company as a .Net Developer
 - 📈 Still growing up to become an expert developer like you 😁
 - 🎯 2021 Goals: Work in EdTech Startup & contribute more to Open Source projects
+- 📫 Contact me at **dinanranggamaulana@gmail.com**
+- 📄 Know about my experiences [bit.ly/cv-dinan](cv)
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
 
@@ -36,7 +38,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&" alt="dinanrm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&theme=react" alt="dinanrm" /></p>
 
 [![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)](https://github.com/dinanrm/github-readme-stats)
 
@@ -66,3 +68,4 @@
 [instagram]: https://instagram.com/dinan_rm
 [linkedin]: https://linkedin.com/in/dinanrm
 [gitlab]: https://gitlab.com/in/dinanrm
+[cv]: https://bit.ly/cv-dinan
