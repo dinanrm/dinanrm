@@ -22,7 +22,7 @@
 
 ### 🎧 Spotify Playing 
 
-[<img src="https://github-readme.dinanrm.vercel.app/api/spotify-playing" alt="Dinan Spotify Playing" width="350" />](https://open.spotify.com/user/dinan_rm)
+[<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify" alt="Dinan Spotify Playing" width="350" />](https://open.spotify.com/user/dinan_rm)
 
 ### 🔗 Connect with me:
 
