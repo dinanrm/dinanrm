@@ -55,6 +55,10 @@
 
 </details>
 
+### :zap: GitHub Stats
+
+<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&langs_count=10" />
+
 [website]: https://dinan.azurewebsites.net/
 [facebook]: https://facebook.com/dinanrm21
 [twitter]: https://twitter.com/dinanrm
