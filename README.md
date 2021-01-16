@@ -12,7 +12,6 @@
 - 🎯 2021 Goals: Work in EdTech Startup & contribute more to Open Source projects
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
-# Test
 
 ### 🎧 Spotify Playing 
 
