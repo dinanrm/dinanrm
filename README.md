@@ -31,19 +31,19 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/dinanrm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/dinanrm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm" />
 </a>
 
 ### 🔝 Top Languages:
-<img align="center" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
 
 
 ### 👨🏻‍💻 Playing Stats:
-<img align="center" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm" />
+[![dinanrm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
 
 
 ### 📊 GitHub Stats
