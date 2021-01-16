@@ -1,6 +1,6 @@
 ### Hi there, I'm Dinan - Thanks for visiting my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinanrm&label=Profile%20views&color=0e75b6&style=flat" alt="dinanrm" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dinanrm.dinanrm)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinanrm&rank=SSS,SS,S,AAA,AA,A" alt="dinanrm" /></a> </p>
 
