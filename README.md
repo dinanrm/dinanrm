@@ -26,13 +26,17 @@
 
 <br />
 
-### 👨🏻‍💻 Languages and Tools:
+### 👨🏻‍💻 Top Languages:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
+
+### 👨🏻‍💻 Playing Stats:
+
+<img align="left" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm" />
 
 
 ### :zap: GitHub Stats
-<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
 
 <br />
 <br />
