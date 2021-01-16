@@ -20,7 +20,7 @@
 
 ### 🔗 Connect with me:
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />[instagram]
+[<img align="left" alt="dinanrm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dinanrm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dinanrm | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="dinanrm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
