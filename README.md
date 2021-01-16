@@ -21,7 +21,9 @@
 
 
 ### 🎧 Spotify Playing 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](spotify)
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](spotify)
 
 [![Spotify](https://github-readme-spotify.dinanrm.vercel.app/api/spotify)](spotify)
 
