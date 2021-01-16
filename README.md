@@ -20,12 +20,12 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="dinanrm | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="dinanrm | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png" />][linkedin]
-[<img align="left" alt="dinanrm | gitlab" width="22px" src="https://img.icons8.com/cute-clipart/256/000000/instagram-new.png" />][gitlab]
+[<img align="left" alt="dinanrm | Instagram" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="dinanrm | LinkedIn" src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png" />][linkedin]
+[<img align="left" alt="dinanrm | gitlab" src="https://img.icons8.com/cute-clipart/256/000000/instagram-new.png" />][gitlab]
 [<img align="left" alt="dinanrm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" />][youtube]
 [<img align="left" alt="dinanrm | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" />][facebook]
-[<img align="left" alt="dinanrm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
+[<img align="left" alt="dinanrm | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
 
 <br>
 
