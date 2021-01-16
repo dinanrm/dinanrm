@@ -2,7 +2,7 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dinanrm.dinanrm)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinanrm&rank=SSS,SS,S,AAA,AA,A" alt="dinanrm" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=dinanrm&rank=SSS,SS,S,AAA,AA,A" alt="dinanrm" /></p>
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinanrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdinanrm&screen_name=dinanrm)
@@ -41,15 +41,15 @@
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&theme=dark" alt="dinanrm" /></p>
 
-[![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)](https://github.com/dinanrm/github-readme-stats)
+[![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)]
 
 
 ### 🔝 Top Languages:
-[![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&layout=compact&theme=react)](https://github.com/dinanrm/github-readme-stats)
+[![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&layout=compact&theme=react)]
 
 
 ### 👨🏻‍💻 Playing Stats:
-[![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=dark)](https://github.com/dinanrm/github-readme-stats)
+[![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=dark)]
 
 
 ### 📍 Recent GitHub Activity
