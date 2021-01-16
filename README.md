@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinanrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdinanrm&screen_name=dinanrm)
 
 
-## I'm still a Junior Developer
+## A Backend Developer from Bandung, Indonesia
 
 - 📚 Currently learning everything 🤣
 - 👨🏻‍💻 Focusing on .Net technology because of my role in company as a .Net Developer
@@ -12,6 +12,7 @@
 - 🎯 2021 Goals: Work in EdTech Startup & contribute more to Open Source projects
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
+# Test
 
 ### 🎧 Spotify Playing 
 
