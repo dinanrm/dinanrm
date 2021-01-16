@@ -45,7 +45,7 @@
 
 
 ### 🔝 Top Languages:
-![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&langs_count=10&layout=compact&theme=react)
+![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&langs_count=10&layout=compact&theme=dark)
 
 
 ### 👨🏻‍💻 Playing Stats:
