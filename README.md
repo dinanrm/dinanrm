@@ -22,7 +22,7 @@
 
 ### 🎧 Spotify Playing 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="dinanrm Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://github-readme.dinanrm.vercel.app/api/spotify)](https://open.spotify.com/user/dinanrm)<br>|<div style="text-align: justify">
 
 
 ### 🔗 Connect with me:
