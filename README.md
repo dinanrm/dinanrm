@@ -45,11 +45,11 @@
 
 
 ### 🔝 Top Languages:
-![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&layout=compact&theme=react)]
+![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&langs_count=10&layout=compact&theme=react)]
 
 
 ### 👨🏻‍💻 Playing Stats:
-![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&layout=compact&theme=dark)]
+![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&langs_count=10&layout=compact&theme=gradient)]
 
 
 ### 📍 Recent GitHub Activity
