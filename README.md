@@ -21,11 +21,8 @@
 
 
 ### 🎧 Spotify Playing 
-[![Spotify](https://novatorem.vercel.app/api/spotify)][spotify]
 
 [![Spotify](https://github-readme-spotify.dinanrm.vercel.app/api/spotify-playing)][spotify]
-
-[![Spotify](https://dinanrm.vercel.app/api/spotify-playing)][spotify]
 
 ### 🔗 Connect with me:
 
