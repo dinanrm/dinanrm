@@ -15,7 +15,7 @@
 - 📈 Still growing up to become an expert developer like you 😁
 - 🎯 2021 Goals: Work in EdTech Startup & contribute more to Open Source projects
 - 📫 Contact me at **dinanranggamaulana@gmail.com**
-- 📄 Know about my experiences resume(cv)
+- 📄 Know about my experiences [resume](cv)
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
 
