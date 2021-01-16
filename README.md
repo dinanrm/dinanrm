@@ -35,6 +35,10 @@
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&" alt="dinanrm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&locale=en" alt="dinanrm" /></p>
+
 
 ### 📊 GitHub Stats
 [![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)](https://github.com/dinanrm/github-readme-stats)
