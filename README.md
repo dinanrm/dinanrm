@@ -26,15 +26,13 @@
 
 <br />
 
-### Languages and Tools:
+### 👨🏻‍💻 Languages and Tools:
 
-<br />
-<br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ### :zap: GitHub Stats
-<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&count_private=true&include_all_commits=true" />
+<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 
 <br />
 <br />
