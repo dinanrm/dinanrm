@@ -16,20 +16,14 @@
 - 📈 Still growing up to become an expert developer like you 😁
 - 🎯 2021 Goals: Work in EdTech Startup & contribute more to Open Source projects
 - 📫 Contact me at **dinanranggamaulana@gmail.com**
-- 📄 Know about my experiences [resume](cv)
+- 📄 Know about my experiences [resume][cv]
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
 
 ### 🎧 Spotify Playing 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](spotify)
+[![Spotify](https://novatorem.vercel.app/api/spotify)][spotify]
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](spotify)
-
-[![Spotify](https://github-readme-spotify.dinanrm.vercel.app/api/spotify)](spotify)
-
-[<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify" alt="Dinan Spotify Playing" width="350" />](spotify)
-
-[<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify-playing" alt="Dinan Spotify Playing" width="350" />](spotify)
+[![Spotify](github-readme-spotify-37x3hlki6.vercel.app/api/spotify)][spotify]
 
 ### 🔗 Connect with me:
 
