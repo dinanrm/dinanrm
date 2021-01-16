@@ -41,15 +41,15 @@
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&theme=dark" alt="dinanrm" /></p>
 
-[![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)]
+![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)]
 
 
 ### 🔝 Top Languages:
-[![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&layout=compact&theme=react)]
+![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&layout=compact&theme=react)]
 
 
 ### 👨🏻‍💻 Playing Stats:
-[![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=dark)]
+![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=dark)]
 
 
 ### 📍 Recent GitHub Activity
