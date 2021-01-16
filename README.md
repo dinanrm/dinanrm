@@ -36,6 +36,8 @@
 ### :zap: GitHub Stats
 <img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&count_private=true&include_all_commits=true" />
 
+---
+
 ### :zap: Recent GitHub Activity
 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
 2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
