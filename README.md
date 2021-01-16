@@ -23,7 +23,7 @@
 ### 🎧 Spotify Playing 
 [![Spotify](https://novatorem.vercel.app/api/spotify)][spotify]
 
-[![Spotify](https://github-readme-spotify-37x3hlki6.vercel.app/api/spotify)][spotify]
+[![Spotify](https://github-readme-spotify.dinanrm.vercel.app/api/spotify)][spotify]
 
 ### 🔗 Connect with me:
 
