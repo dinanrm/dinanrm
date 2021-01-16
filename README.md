@@ -31,23 +31,17 @@
 
 ---
 
-<a href="https://github.com/dinanrm/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
-</a>
-<a href="https://github.com/dinanrm/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm" />
-</a>
-
-### 🔝 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
-
-
-### 👨🏻‍💻 Playing Stats:
-[![dinanrm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
-
 
 ### 📊 GitHub Stats
 [![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)](https://github.com/dinanrm/github-readme-stats)
+
+
+### 🔝 Top Languages:
+[![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
+
+
+### 👨🏻‍💻 Playing Stats:
+[![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
 
 
 ### 📍 Recent GitHub Activity
