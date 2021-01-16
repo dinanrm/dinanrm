@@ -21,8 +21,11 @@
 
 
 ### 🎧 Spotify Playing 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
-[<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify" alt="Dinan Spotify Playing" width="350" />](https://open.spotify.com/user/dinan_rm)
+[<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify" alt="Dinan Spotify Playing" width="350" />](spotify)
+
+[<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify-playing" alt="Dinan Spotify Playing" width="350" />](spotify)
 
 ### 🔗 Connect with me:
 
@@ -75,3 +78,4 @@
 [gitlab]: https://gitlab.com/in/dinanrm
 [hackerrank]: https://www.hackerrank.com/dinanrm
 [cv]: https://bit.ly/cv-dinan
+[spotify]: https://open.spotify.com/user/dinan_rm
