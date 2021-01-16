@@ -51,19 +51,16 @@
 ---
 
 ### :zap: GitHub Stats
-<!--START_SECTION:statistics-->
 <img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&count_private=true&include_all_commits=true" />
-<!--END_SECTION:statistics-->
 
+<br>
 
 ### :zap: Recent GitHub Activity
-<!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
 2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
 
 
 [website]: https://dinan.azurewebsites.net/
