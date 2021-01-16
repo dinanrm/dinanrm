@@ -23,7 +23,7 @@
 ### 🎧 Spotify Playing 
 [![Spotify](https://novatorem.vercel.app/api/spotify)][spotify]
 
-[![Spotify](github-readme-spotify-37x3hlki6.vercel.app/api/spotify)][spotify]
+[![Spotify](https://github-readme-spotify-37x3hlki6.vercel.app/api/spotify)][spotify]
 
 ### 🔗 Connect with me:
 
@@ -41,22 +41,19 @@
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&theme=dark" alt="dinanrm" /></p>
 
-![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)]
+[![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)]
 
 
 ### 🔝 Top Languages:
-![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&langs_count=10&layout=compact&theme=react)]
+[![Dinan's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm&langs_count=10&layout=compact&theme=react)]
 
 
 ### 👨🏻‍💻 Playing Stats:
-![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&langs_count=10&layout=compact&theme=gradient)]
+[![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&langs_count=10&layout=compact&theme=dark)]
 
 
 ### 📍 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/wakatime/visualstudio-wakatime/issues/84) in [wakatime/visualstudio-wakatime](https://github.com/wakatime/visualstudio-wakatime)
-2. 🎉 Merged PR [#1](https://github.com/dinanrm/moleculer-web-swagger/pull/1) in [dinanrm/moleculer-web-swagger](https://github.com/dinanrm/moleculer-web-swagger)
-3. 💪 Opened PR [#1](https://github.com/dinanrm/moleculer-web-swagger/pull/1) in [dinanrm/moleculer-web-swagger](https://github.com/dinanrm/moleculer-web-swagger)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
