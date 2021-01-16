@@ -49,7 +49,7 @@
 
 
 ### 👨🏻‍💻 Playing Stats:
-![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=dark)]
+![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&layout=compact&theme=dark)]
 
 
 ### 📍 Recent GitHub Activity
