@@ -52,7 +52,7 @@
 
 ### :zap: GitHub Stats
 <!--START_SECTION:statistics-->
-<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true" />
+<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&count_private=true" />
 <!--END_SECTION:statistics-->
 
 ### :zap: Recent GitHub Activity
