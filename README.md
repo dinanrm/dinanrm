@@ -27,18 +27,17 @@
 [<img align="left" alt="dinanrm | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dinanrm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
 
 ### 🔝 Top Languages:
-<img align="left" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
 
 
 ### 👨🏻‍💻 Playing Stats:
-<img align="left" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm" />
+[![dinanrm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
 
 
 ### 📊 GitHub Stats
-<img align="left" alt="dinanrm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
+[![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)](https://github.com/dinanrm/github-readme-stats)
 
 
 ### 📍 Recent GitHub Activity
