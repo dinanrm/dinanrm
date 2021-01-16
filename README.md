@@ -23,6 +23,8 @@
 ### 🎧 Spotify Playing 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
+[![Spotify](https://github-readme-spotify.dinanrm.vercel.app/api/spotify)](spotify)
+
 [<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify" alt="Dinan Spotify Playing" width="350" />](spotify)
 
 [<img src="https://github-readme-spotify.dinanrm.vercel.app/api/spotify-playing" alt="Dinan Spotify Playing" width="350" />](spotify)
