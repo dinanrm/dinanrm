@@ -22,9 +22,9 @@
 
 [<img align="left" alt="dinanrm | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="dinanrm | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="dinanrm | gitlab" width="30px" src="https://img.icons8.com/fluent/48/000000/gitlab.png" />][gitlab]
-[<img align="left" alt="dinanrm | YouTube" width="30px" src="https://img.icons8.com/fluent/48/000000/youtube.png" />][youtube]
-[<img align="left" alt="dinanrm | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook.png" />][facebook]
+[<img align="left" alt="dinanrm | gitlab" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png" />][gitlab]
+[<img align="left" alt="dinanrm | YouTube" width="30px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="dinanrm | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="dinanrm | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 
 <br>
