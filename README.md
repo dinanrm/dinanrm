@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinanrm&label=Profile%20views&color=0e75b6&style=flat" alt="dinanrm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinanrm" alt="dinanrm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&rank=SSS,SS,S,AAA,AA,A"><img src="https://github-profile-trophy.vercel.app/?username=dinanrm" alt="dinanrm" /></a> </p>
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinanrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdinanrm&screen_name=dinanrm)
