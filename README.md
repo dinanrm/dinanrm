@@ -39,11 +39,11 @@
 </a>
 
 ### 🔝 Top Languages:
-<img align="left" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
+<img align="center" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
 
 
 ### 👨🏻‍💻 Playing Stats:
-<img align="right" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm" />
+<img align="center" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm" />
 
 
 ### 📊 GitHub Stats
