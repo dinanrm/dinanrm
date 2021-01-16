@@ -20,9 +20,9 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="dinanrm | Instagram" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="dinanrm | LinkedIn" width="40px" src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png" />][linkedin]
-[<img align="left" alt="dinanrm | gitlab" width="50px" src="https://img.icons8.com/cute-clipart/256/000000/instagram-new.png" />][gitlab]
+[<img align="left" alt="dinanrm | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="dinanrm | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][linkedin]
+[<img align="left" alt="dinanrm | gitlab" width="30px" src="https://img.icons8.com/cute-clipart/256/000000/instagram-new.png" />][gitlab]
 [<img align="left" alt="dinanrm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" />][youtube]
 [<img align="left" alt="dinanrm | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dinanrm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
