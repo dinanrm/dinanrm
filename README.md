@@ -15,7 +15,7 @@
 - 📈 Still growing up to become an expert developer like you 😁
 - 🎯 2021 Goals: Work in EdTech Startup & contribute more to Open Source projects
 - 📫 Contact me at **dinanranggamaulana@gmail.com**
-- 📄 Know about my experiences [bit.ly/cv-dinan](cv)
+- 📄 Know about my experiences resume(cv)
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
 
@@ -26,19 +26,19 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="dinanrm | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="dinanrm | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="dinanrm | gitlab" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png" />][gitlab]
+[<img align="left" alt="dinanrm | Hackerrank" width="30px" src="https://img.icons8.com/windows/48/228B22/hackerrank.png" />][hackerrank]
+[<img align="left" alt="dinanrm | Gitlab" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png" />][gitlab]
 [<img align="left" alt="dinanrm | YouTube" width="30px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="dinanrm | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="dinanrm | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-
+[<img align="left" alt="dinanrm | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 <br>
 
 ---
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&theme=react" alt="dinanrm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanrm&theme=dark" alt="dinanrm" /></p>
 
 [![Dinan's github stats](https://github-readme-stats.vercel.app/api?username=dinanrm&show_icons=true&theme=react&count_private=true&include_all_commits=true)](https://github.com/dinanrm/github-readme-stats)
 
@@ -48,7 +48,7 @@
 
 
 ### 👨🏻‍💻 Playing Stats:
-[![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=react)](https://github.com/dinanrm/github-readme-stats)
+[![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=dark)](https://github.com/dinanrm/github-readme-stats)
 
 
 ### 📍 Recent GitHub Activity
@@ -68,4 +68,5 @@
 [instagram]: https://instagram.com/dinan_rm
 [linkedin]: https://linkedin.com/in/dinanrm
 [gitlab]: https://gitlab.com/in/dinanrm
+[hackerrank]: https://www.hackerrank.com/dinanrm
 [cv]: https://bit.ly/cv-dinan
