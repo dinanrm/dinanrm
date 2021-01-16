@@ -22,7 +22,7 @@
 
 ### 🎧 Spotify Playing 
 
-[![Spotify](https://github-readme.dinanrm.vercel.app/api/spotify)](https://open.spotify.com/user/dinanrm)<br>|<div style="text-align: justify">
+[![Spotify](https://github-readme.dinanrm.vercel.app/api/spotify)](https://open.spotify.com/user/dinan_rm)<br>|<div style="text-align: justify">
 
 
 ### 🔗 Connect with me:
