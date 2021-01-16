@@ -31,8 +31,16 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ### 🔝 Top Languages:
-<img align="left" alt="dinanrm's Top Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
+
 
 ### 👨🏻‍💻 Playing Stats:
 [![dinanrm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm)](https://github.com/dinanrm/github-readme-stats)
