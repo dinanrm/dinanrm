@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinanrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdinanrm&screen_name=dinanrm)
 
 
-## A Backend Developer from Bandung, Indonesia
+## A Software Developer from Bandung, Indonesia
 
 - 📚 Currently learning everything 🤣
 - 👨🏻‍💻 Focusing on .Net technology because of my role in company as a .Net Developer
@@ -45,12 +45,8 @@
 
 
 ### 📍 Recent GitHub Activity
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [website]: https://dinan.azurewebsites.net/
 [facebook]: https://facebook.com/dinanrm21
