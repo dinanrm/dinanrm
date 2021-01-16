@@ -42,6 +42,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### :zap: Recent GitHub Activity
 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
