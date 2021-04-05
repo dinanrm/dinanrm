@@ -7,7 +7,7 @@
 [![Instagram Follow](https://img.shields.io/badge/FOLLOW%20%40DINAN__RM-1.3K-ff69b4?style=for-the-badge&logo=instagram)][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinanrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdinanrm&screen_name=dinanrm)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dinanrm/dinanrm/master/code.gif?raw=true" width="500" height="320" />
 
 ## A Software Developer from Bandung, Indonesia
 
