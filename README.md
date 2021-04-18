@@ -52,7 +52,6 @@
 
 ### 📍 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/wakatime/visualstudio-wakatime/issues/84) in [wakatime/visualstudio-wakatime](https://github.com/wakatime/visualstudio-wakatime)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
