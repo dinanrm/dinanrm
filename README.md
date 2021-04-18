@@ -52,6 +52,7 @@
 
 ### 📍 Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/dinanrm/dinanrm/pull/1) in [dinanrm/dinanrm](https://github.com/dinanrm/dinanrm)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
