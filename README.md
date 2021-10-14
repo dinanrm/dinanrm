@@ -50,7 +50,7 @@
 ![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&layout=compact&theme=dark)
 
 
-### 📍 Recent GitHub Activity
+<!-- ### 📍 Recent GitHub Activity -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
