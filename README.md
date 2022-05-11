@@ -9,13 +9,13 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dinanrm/dinanrm/master/code.gif?raw=true" width="500" height="320" />
 
-## A Software Developer from Bandung, Indonesia
+## A Software Engineer from Bandung, Indonesia
 
-- 📚 Currently learning everything 🤣
-- 👨🏻‍💻 Focusing on .Net technology because of my role in company as a .Net Developer
+<!-- - 📚 Currently learning everything 🤣 -->
+- 👨🏻‍💻 Currently focusing on .Net technology
 - 📈 Still growing up to become an expert developer like you 😁
-- 🎯 2021 Goals: Work in EdTech Startup & contribute more to Open Source projects
-- 📄 Know about my experiences [resume][cv]
+- 🎯 2022 Goals: Contribute more to Open Source projects
+- 📄 Know more about my experiences [resume][cv]
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
 
@@ -70,5 +70,5 @@
 [linkedin]: https://linkedin.com/in/dinanrm
 [gitlab]: https://gitlab.com/in/dinanrm
 [hackerrank]: https://www.hackerrank.com/dinanrm
-[cv]: https://bit.ly/cv-dinan
+[cv]: https://bit.ly/CVDinan
 [spotify]: https://open.spotify.com/user/dinan_rm
