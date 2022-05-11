@@ -15,7 +15,7 @@
 - 👨🏻‍💻 Currently focusing on .Net technology
 - 📈 Still growing up to become an expert developer like you 😁
 - 🎯 2022 Goals: Contribute more to Open Source projects
-- 📄 Know more about my experiences [resume][cv]
+- 📄 Know more about my experiences [resume][linkedin]
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
 
