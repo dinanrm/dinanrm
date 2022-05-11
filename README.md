@@ -52,6 +52,12 @@
 
 <!-- ### 📍 Recent GitHub Activity -->
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#21](https://github.com/ProgrammerZamanNow/qna/issues/21) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
+2. 🗣 Commented on [#21](https://github.com/ProgrammerZamanNow/qna/issues/21) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
+3. 🗣 Commented on [#17](https://github.com/ProgrammerZamanNow/qna/issues/17) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
+4. 🗣 Commented on [#14](https://github.com/ProgrammerZamanNow/qna/issues/14) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
+5. 🗣 Commented on [#14](https://github.com/ProgrammerZamanNow/qna/issues/14) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
+6. 🗣 Commented on [#3](https://github.com/ProgrammerZamanNow/qna/issues/3) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
