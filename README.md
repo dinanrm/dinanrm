@@ -1,4 +1,4 @@
-### Hi there, I'm Dinan - Thanks for visiting my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Dinan - Thanks for visiting my profile <img src="https://raw.githubusercontent.com/dinanrm/dinanrm/master/waving-hand.gif" width="25">
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dinanrm.dinanrm)
 
