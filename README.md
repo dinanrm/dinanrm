@@ -54,7 +54,7 @@
 ![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&layout=compact&theme=dark)
 
 
-<!-- ### 📍 Recent GitHub Activity -->
+### 📍 Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/ProgrammerZamanNow/qna/issues/21) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
 2. 🗣 Commented on [#21](https://github.com/ProgrammerZamanNow/qna/issues/21) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
