@@ -47,6 +47,10 @@
 
 
 ### 👨🏻‍💻 Playing Stats:
+<a href="https://wakatime.com/@3e239ab4-578d-4a98-a734-51564ad35dd1">
+  <img src="https://wakatime.com/badge/user/3e239ab4-578d-4a98-a734-51564ad35dd1.svg" alt="Total time coded since Jan 16 2021" />
+</a>
+
 ![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&layout=compact&theme=dark)
 
 
