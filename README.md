@@ -4,7 +4,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=dinanrm&rank=SSS,SS,S,AAA,AA,A" alt="dinanrm" /></p>
 
-[![Instagram Follow](https://img.shields.io/badge/FOLLOW%20%40DINAN__RM-1.3K-ff69b4?style=for-the-badge&logo=instagram)][instagram]
+[![Instagram Follow](https://img.shields.io/badge/FOLLOW%20%40DINAN__RM-1.5K-ff69b4?style=for-the-badge&logo=instagram)][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinanrm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdinanrm&screen_name=dinanrm)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dinanrm/dinanrm/master/code.gif?raw=true" width="500" height="320" />
@@ -25,13 +25,20 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="dinanrm | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="dinanrm | Hackerrank" width="30px" src="https://img.icons8.com/windows/48/228B22/hackerrank.png" />][hackerrank]
-[<img align="left" alt="dinanrm | Gitlab" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png" />][gitlab]
-[<img align="left" alt="dinanrm | YouTube" width="30px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="dinanrm | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="dinanrm | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="dinanrm | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="dinanrm | linkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="dinanrm | github" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />][github]
+[<img align="left" alt="dinanrm | gitlab" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png" />][gitlab]
+[<img align="left" alt="dinanrm | hackerrank" width="30px" src="https://img.icons8.com/windows/48/228B22/hackerrank.png" />][hackerrank]
+[<img align="left" alt="dinanrm | wakatime" width="30px" src="https://img.icons8.com/fluent/48/000000/code.png" />][wakatime]
+[<img align="left" alt="dinanrm | medium" width="30px" src="https://img.icons8.com/color/48/000000/medium.png" />][medium]
+[<img align="left" alt="dinanrm | facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="dinanrm | instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="dinanrm | twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="dinanrm | youTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="dinanrm | discord" width="30px" src="https://img.icons8.com/fluent/48/000000/discord-play.png" />][discord]
+[<img align="left" alt="dinanrm | spotify" width="30px" src="https://img.icons8.com/fluent/48/000000/spotify-play.png" />][spotify]
+[<img align="left" alt="dinanrm | steam" width="30px" src="https://img.icons8.com/fluent/48/000000/steam-play.png" />][steam]
+
 <br>
 
 ---
@@ -47,7 +54,7 @@
 
 
 ### 👨🏻‍💻 Playing Stats:
-![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dinanrm&layout=compact&theme=dark)
+![Dinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinanrm&layout=compact&theme=dark)
 
 
 <!-- ### 📍 Recent GitHub Activity -->
@@ -68,13 +75,21 @@
 | <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
 | --
 
-[website]: https://dinan.azurewebsites.net/
-[facebook]: https://facebook.com/dinanrm21
-[twitter]: https://twitter.com/dinanrm
-[youtube]: https://youtube.com/dinanranggamaulana
-[instagram]: https://instagram.com/dinan_rm
-[linkedin]: https://linkedin.com/in/dinanrm
-[gitlab]: https://gitlab.com/in/dinanrm
-[hackerrank]: https://www.hackerrank.com/dinanrm
 [cv]: https://bit.ly/CVDinan
+[linktree]: https://linktr.ee/dinanrm
+
+[linkedin]: https://linkedin.com/in/dinanrm
+[github]: https://github.com/dinanrm
+[gitlab]: https://gitlab.com/dinanrm
+[hackerrank]: https://www.hackerrank.com/dinanrm
+[wakatime]: https://wakatime.com/@dinanrm
+
+[medium]: https://medium.com/@dinanrm
+[facebook]: https://facebook.com/dinanrm21
+[instagram]: https://instagram.com/dinan_rm
+[twitter]: https://twitter.com/dinanrm
 [spotify]: https://open.spotify.com/user/dinan_rm
+[youtube]: https://youtube.com/dinanranggamaulana
+
+[discord]: http://discord.com/channels/dinanrm#1868
+[steam]: https://steamcommunity.com/id/dinanrm
