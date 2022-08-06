@@ -35,9 +35,9 @@
 [<img align="left" alt="dinanrm | instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="dinanrm | twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="dinanrm | youTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="dinanrm | discord" width="30px" src="https://img.icons8.com/fluent/48/000000/discord-play.png" />][discord]
-[<img align="left" alt="dinanrm | spotify" width="30px" src="https://img.icons8.com/fluent/48/000000/spotify-play.png" />][spotify]
-[<img align="left" alt="dinanrm | steam" width="30px" src="https://img.icons8.com/fluent/48/000000/steam-play.png" />][steam]
+[<img align="left" alt="dinanrm | discord" width="30px" src="https://img.icons8.com/fluent/48/000000/discord.png" />][discord]
+[<img align="left" alt="dinanrm | spotify" width="30px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
+[<img align="left" alt="dinanrm | steam" width="30px" src="https://img.icons8.com/fluent/48/000000/steam.png" />][steam]
 
 <br>
 
