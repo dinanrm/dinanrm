@@ -14,7 +14,7 @@
 <!-- - 📚 Currently learning everything 🤣 -->
 - 👨🏻‍💻 Currently focusing on .Net technology
 - 📈 Still growing up to become an expert developer like you 😁
-- 🎯 2022 Goals: Contribute more to Open Source projects
+- 🎯 2023 Goals: Contribute more to Open Source projects
 - 📄 Know more about my experiences [linktree][linktree]
 - 🏃🏻‍♂️ Fun fact: I love to run and play guitar in my spare time 🎸
 
